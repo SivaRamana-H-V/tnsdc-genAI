@@ -1,4 +1,4 @@
-# FashionGAN: Generative Adversarial Network for Fashion Images
+# FashionGAN: Generative Adversarial Network for Fashion Images (TNSDC-GEN-AI)
 
 This project implements a Generative Adversarial Network (GAN) using TensorFlow for generating fashion images based on the Fashion MNIST dataset. The GAN consists of a generator and a discriminator trained in an adversarial setup to produce realistic fashion images.
 
